@@ -1,0 +1,3 @@
+rootProject.name = "MVVMBasicRecycler"
+include ':app'
+include ':java'
